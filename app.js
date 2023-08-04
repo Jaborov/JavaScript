@@ -1,11 +1,11 @@
-const array = [1, 2, 3, 4, 5, 6, 30, 17, 46];
-console.log(array);
-console.log(array[8]);
-console.log(array.length);
-console.log(array[array.length]);
-array[3] = null;
-array[array.length] = "bakha";
-console.log(array);
+// const array = [1, 2, 3, 4, 5, 6, 30, 17, 46];
+// console.log(array);
+// console.log(array[8]);
+// console.log(array.length);
+// console.log(array[array.length]);
+// array[3] = null;
+// array[array.length] = "bakha";
+// console.log(array);
 
 const inputText = document.getElementById("title");
 const buttonAdd = document.getElementById("create");
